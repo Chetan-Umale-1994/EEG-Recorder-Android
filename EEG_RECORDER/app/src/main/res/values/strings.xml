@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EEG_RECORDER</string>
+    <string name="action_settings">Settings</string>
+</resources>
